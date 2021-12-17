@@ -54,7 +54,7 @@ def main():
 
     spell_check_result = ''
     final_output = ''
-    source = 'This is my piano'
+    source = 'piana'
     edit_distance = {}
     
     source_tokenizer = source.split(' ')
